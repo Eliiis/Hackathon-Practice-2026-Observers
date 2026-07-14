@@ -47,7 +47,7 @@ submission_lgb_improved.csv
 
 2. Открыть notebooks в порядке:
 
-1. Обработка_данных_ИТОГ.ipynb
+1. Preprocessing_and_FE.ipynb
 2. LGB_IMPROVED_ONLY.ipynb
 
 3. Перед выполнением каждого notebook перезапустить kernel и запускать ячейки сверху вниз.
