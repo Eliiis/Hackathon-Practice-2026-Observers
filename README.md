@@ -25,7 +25,7 @@ WMAE = sum_i (w_i) |y_i-y_pred_i| // sum_i (w_i)
 
 train.csv / test.csv
 
-Обработка_данных_ИТОГ.ipynb
+Preprocessing_and_FE.ipynb
 
 train_processed_v2.csv / test_processed_v2.csv
 
